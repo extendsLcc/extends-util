@@ -1,0 +1,1 @@
+export { getRandomDoubleBetween } from './src/number/random/getRandomDoubleBetween.js';

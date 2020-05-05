@@ -1,0 +1,1 @@
+export { parseCurrencyToDouble } from './src/string/parse/parseCurrencyToDouble.js';

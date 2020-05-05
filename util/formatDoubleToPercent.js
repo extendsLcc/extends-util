@@ -1,0 +1,1 @@
+export { formatDoubleToPercent } from './src/string/format/formatDoubleToPercent.js';

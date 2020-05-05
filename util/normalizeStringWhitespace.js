@@ -1,0 +1,1 @@
+export { normalizeStringWhitespace } from './src/string/manipulate/normalizeStringWhitespace.js';

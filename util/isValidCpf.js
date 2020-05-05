@@ -1,0 +1,1 @@
+export { isValidCpf } from './src/validation/isValidCpf.js';

@@ -1,0 +1,1 @@
+export { isValidCnpj } from './src/validation/isValidCnpj.js';

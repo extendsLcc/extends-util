@@ -1,0 +1,1 @@
+export { parsePercentToDouble } from './src/string/parse/parsePercentToDouble.js'

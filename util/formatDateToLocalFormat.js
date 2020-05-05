@@ -1,0 +1,1 @@
+export { formatDateToLocalFormat } from './src/string/format/formatDateToLocalFormat.js';

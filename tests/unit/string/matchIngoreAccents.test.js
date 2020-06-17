@@ -1,3 +1,4 @@
+import {matchIgnoreAccents} from "../../../util/src/string/matchIgnoreAccents.js";
 
 
 describe( 'Check if two strings contain matching text ignoring accents', function () {

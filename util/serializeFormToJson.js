@@ -1,0 +1,1 @@
+export { serializeFormToJson } from './src/form/serializeFormToJson.js';

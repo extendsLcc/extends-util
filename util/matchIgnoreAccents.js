@@ -1,0 +1,1 @@
+export { matchIgnoreAccents } from './src/string/matchIgnoreAccents.js';

@@ -1,1 +1,1 @@
-export { formatDoubleToPercent } from './src/string/format/formatDoubleToPercent.js';
+export { formatDoubleToCurrency } from './src/string/format/formatDoubleToCurrency.js';

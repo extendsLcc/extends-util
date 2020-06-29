@@ -1,4 +1,5 @@
-import { isNullish } from '../../../util/isNullish.js'
+import { isNullish } from '../../../util/src/logic/isNullish.js';
+
 
 describe( 'Check if value is nullish', () => {
 
@@ -28,7 +29,8 @@ describe( 'Check if value is nullish', () => {
         let trueValue = true,
             objectValue = {},
             arrayValue = [],
-            functionValue = ()=>{},
+            functionValue = () => {
+            },
             numberValue = 1,
             stringValue = 'string';
 

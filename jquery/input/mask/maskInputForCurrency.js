@@ -1,11 +1,11 @@
-import { parseCurrencyToDouble } from '../util/src/string/parse/parseCurrencyToDouble.js';
+import { parseCurrencyToDouble } from '../../../util/src/number/parse/parseCurrencyToDouble.js';
 
 //  MASK INPUT INIT
 /**
  * Apply BRL Currency format to given input element.
  * @param {jQuery} whichInput - input to receive the mask
  */
-const inputMaskMoney = ( whichInput ) => {
+export const maskInputForCurrency = ( whichInput ) => {
 
     $( whichInput ).inputmask( 'currency', {
         alias: 'numeric',

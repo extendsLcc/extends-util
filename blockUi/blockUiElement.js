@@ -3,7 +3,7 @@
  * @param { css-selector|Element} containers - selector or elements to be blocked.
  * @see {@link unblockUiElement}
  */
-const blockUiElement = ( ...containers ) => {
+export const blockUiElement = ( ...containers ) => {
 
     containers.forEach( ( container ) => {
 

@@ -3,7 +3,7 @@
  * @param { css-selector|Element} containers - selector or elements to be blocked.
  * @see {@link unblockUiElement}
  */
-export default ( ...containers ) => {
+export const blockUiElementSpinner = ( ...containers ) => {
 
     containers.forEach( ( container ) => {
 

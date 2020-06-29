@@ -1,1 +1,1 @@
-export getFirstNotNullish, { get, shortCircuit } from './src/logic/getFirstNotNullish.js';
+export { getFirstNotNullish, get, shortCircuit } from './src/logic/getFirstNotNullish.js';

@@ -2,9 +2,18 @@
 TODO
 write readme file
 
+### Extends Util
+
+Front-end utilities functions
+
+#
+#### JsDoc Documentation
+
+[incomplete Documentation](https://extendslcc.github.io/extends-util/docs/index.html)
+
+
 ### Commit message pattern
 
-:beetle: - For Bug fix commits
 Inspired by [parmentf/GitCommitEmoji.md](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
 
 See also [gitmoji](https://gitmoji.carloscuesta.me/).
@@ -56,4 +65,3 @@ Concept of git commit MSG PREFIX
 | Reverting changes          | :rewind: `:rewind:`                           |
 | Code review changes        | :ok_hand: `:ok_hand:`                         |
 | Accessibility              | :wheelchair: `:wheelchair:`                   |
-| Other                      | [Be creative](http://www.emoji-cheat-sheet.com/)  |
